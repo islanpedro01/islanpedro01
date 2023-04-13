@@ -1,9 +1,9 @@
 ### Hello, I'm Islan 👋👋
-Welcome to my profile 😄🤞  <img align="right" alt="Rafa-Python" height="100" width="90" src="https://media.tenor.com/aKf3mmAH7GcAAAAj/pikachu.gif">
+Welcome to my profile 😄🤞  <img align="right" alt="Rafa-Python" height="100" width="100" src="https://media.tenor.com/aKf3mmAH7GcAAAAj/pikachu.gif">
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islanpedro01&show_icons=true&theme=merko&line_height=40px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=islanpedro01&show_icons=true&theme=merko&line_height=40px&card_width=100)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islanpedro01&hide_progress=false&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
