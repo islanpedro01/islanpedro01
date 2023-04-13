@@ -1,5 +1,5 @@
 ### Hello, I'm Islan 👋👋
-Welcome to my profile 😄🤞  <img align="right" alt="Rafa-Python" height="100" width="100" src="https://media.tenor.com/aKf3mmAH7GcAAAAj/pikachu.gif">
+Welcome to my profile 😄🤞  <img align="right" alt="Rafa-Python" height="100" width="90" src="https://media.tenor.com/aKf3mmAH7GcAAAAj/pikachu.gif">
 
 ##
 
