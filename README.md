@@ -14,6 +14,6 @@ Welcome to my profile 😄🤞  <img align="right" alt="Rafa-Python" height="100
   
   ##
   
-  ![snake gif](https://github.com/islanpedro01/islanpedro01/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/islanpedro01/islanpedro01/blob/output/github-contribution-grid-snake.svg)
 
 
